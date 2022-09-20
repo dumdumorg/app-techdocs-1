@@ -1,0 +1,8 @@
+site_name: 'example-docs'
+
+nav:
+  - Home: index.md
+  - Doc1: doc1.md
+
+plugins:
+  - techdocs-core
