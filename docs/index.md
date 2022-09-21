@@ -1,3 +1,3 @@
-# example docsfafdsf fjdskjfdksfjdskaljfds
+# Home document edited 1
 
-This is a basic example of documentation.
+Edited 1
