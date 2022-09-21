@@ -1,5 +1,3 @@
-# example docsfafdsf fjdskjfdks 
-
-update 1
+# example docsfafdsf fjdskjfdksfjdskaljfds
 
 This is a basic example of documentation.
