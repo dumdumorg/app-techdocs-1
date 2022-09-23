@@ -1,3 +1,4 @@
 Home 1
 
-Bingo
+update 1
+update 2
