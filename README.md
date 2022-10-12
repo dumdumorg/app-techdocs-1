@@ -9,6 +9,3 @@ yarn install
 yarn dev
 ```
 
-
-
-
